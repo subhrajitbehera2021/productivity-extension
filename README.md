@@ -223,7 +223,7 @@ Blocked Page Displayed
 ## Clone Repository
 
 
-git clone <repository-url>
+git clone <https://github.com/subhrajitbehera2021/productivity-extension.git>
 
 
 ---
